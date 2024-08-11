@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2df11387f5e04e19a5aa409f08c4510e/artifacts
+end_time: 1723388065164
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2df11387f5e04e19a5aa409f08c4510e
+run_name: defiant-ox-83
+run_uuid: 2df11387f5e04e19a5aa409f08c4510e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723388056586
+status: 3
+tags: []
+user_id: monahaghighi

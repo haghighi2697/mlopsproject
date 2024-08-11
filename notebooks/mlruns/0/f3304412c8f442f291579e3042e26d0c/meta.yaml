@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/monahaghighi/Documents/git/mlopsproject/notebooks/mlruns/0/f3304412c8f442f291579e3042e26d0c/artifacts
+end_time: 1723346575659
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f3304412c8f442f291579e3042e26d0c
+run_name: painted-bat-50
+run_uuid: f3304412c8f442f291579e3042e26d0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723346568201
+status: 4
+tags: []
+user_id: monahaghighi

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/monahaghighi/Documents/git/mlopsproject/notebooks/mlruns/0/f676d35be6ed4bb6990d90b14508c14f/artifacts
+end_time: 1723347040335
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f676d35be6ed4bb6990d90b14508c14f
+run_name: placid-cod-913
+run_uuid: f676d35be6ed4bb6990d90b14508c14f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723346665771
+status: 4
+tags: []
+user_id: monahaghighi

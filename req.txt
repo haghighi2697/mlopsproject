@@ -1,0 +1,5 @@
+azureml
+azureml.core
+azureml.datadrift
+azureml-dataprep-native==41.0.0
+azureml-dataprep==5.1.6

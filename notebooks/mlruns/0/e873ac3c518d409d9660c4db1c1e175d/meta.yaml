@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/monahaghighi/Documents/git/mlopsproject/notebooks/mlruns/0/e873ac3c518d409d9660c4db1c1e175d/artifacts
+end_time: 1723346560192
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e873ac3c518d409d9660c4db1c1e175d
+run_name: dazzling-wren-485
+run_uuid: e873ac3c518d409d9660c4db1c1e175d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723346453210
+status: 4
+tags: []
+user_id: monahaghighi

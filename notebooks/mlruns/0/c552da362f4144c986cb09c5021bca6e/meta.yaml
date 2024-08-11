@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/monahaghighi/Documents/git/mlopsproject/notebooks/mlruns/0/c552da362f4144c986cb09c5021bca6e/artifacts
+end_time: 1723387342791
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c552da362f4144c986cb09c5021bca6e
+run_name: rumbling-ox-768
+run_uuid: c552da362f4144c986cb09c5021bca6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723387333559
+status: 3
+tags: []
+user_id: monahaghighi
