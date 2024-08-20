@@ -1,5 +1,6 @@
-azureml
-azureml.core
-azureml.datadrift
-azureml-dataprep-native==41.0.0
-azureml-dataprep==5.1.6
+python == 3.6.2
+scikit-learn
+pandas
+pip
+azureml-defaults
+azureml-mlflow

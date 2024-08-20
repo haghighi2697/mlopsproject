@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/monahaghighi/Documents/git/mlopsproject/notebooks/mlruns/1/d8848e3af7e6423280e0c0004cd4d71d/artifacts
+end_time: 1724104787339
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: d8848e3af7e6423280e0c0004cd4d71d
+run_uuid: d8848e3af7e6423280e0c0004cd4d71d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724104787331
+status: 3
+tags: []
+user_id: monahaghighi

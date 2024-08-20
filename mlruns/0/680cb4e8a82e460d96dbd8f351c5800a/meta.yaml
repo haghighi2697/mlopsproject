@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/680cb4e8a82e460d96dbd8f351c5800a/artifacts
+end_time: 1723952631938
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 680cb4e8a82e460d96dbd8f351c5800a
+run_name: fortunate-ram-55
+run_uuid: 680cb4e8a82e460d96dbd8f351c5800a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723952621001
+status: 3
+tags: []
+user_id: monahaghighi
